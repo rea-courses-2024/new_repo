@@ -1,0 +1,10 @@
+name: Code Style Check
+
+on:
+  push:
+    branches:
+      -
+
+  pull_request:
+
+jobs:
